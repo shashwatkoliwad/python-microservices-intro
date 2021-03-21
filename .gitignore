@@ -1,0 +1,9 @@
+*/.dbdata/*
+*/env/*
+*/__pycache__/*
+**/migrations/*
+*.log
+*.pot
+*.pyc
+
+*.DS_Store
